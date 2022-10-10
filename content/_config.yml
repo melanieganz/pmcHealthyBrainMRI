@@ -6,8 +6,9 @@
 #######################################################################################
 # Book settings
 title                       : "Evaluating the performance of markerless prospective motion correction and selective reacquisition in a general clinical protocol for brain MRI"  # The title of the book. Will be placed in the left navbar.
-author                      : Hannah Eichhorn, Robert Frost, Asta Kongsgaard,  Karen Kettless, Jakob Slipsager, Stefan Glimberg, Nitesh Shekhrajka, M. Dylan Tisdall, Paul Wighton, Lise Borgwardt, Alfred Peter Born, Vibeke Andrée
-Larsen, Kathrine Skak Madsen, André van der Kouwe, Melanie Ganz  # The author of the book
+author                      : "Melanie Ganz" # The author of the book
+#Hannah Eichhorn, Robert Frost, Asta Kongsgaard,  Karen Kettless, Jakob Slipsager, Stefan Glimberg, Nitesh Shekhrajka, M. Dylan Tisdall, Paul Wighton, Lise Borgwardt, Alfred Peter Born, Vibeke Andrée
+#Larsen, Kathrine Skak Madsen, André van der Kouwe, Melanie Ganz  
 copyright                   : "2022"  # Copyright year to be placed in the footer
 logo                        : "../images/neurolibre-logo.png"  # A path to the book logo
 exclude_patterns            : []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
